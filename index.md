@@ -376,14 +376,11 @@ voici build --contents notebooks --apps lab --app retro
 
 ---
 
-https://voila-dashboards.github.io/voici-demo/voici/tree/index.html
-
-
 <video
   controls autoplay
   width="100%"
   height="600px"
-  src="https://user-images.githubusercontent.com/591645/222892327-2a5b1341-640d-49c2-9e95-1f2d3ec122be.mp4">
+  src="https://user-images.githubusercontent.com/591645/236285012-1c9afa23-8da4-45ea-9b0b-10c5cd2087f0.mp4">
 </video>
 
 ---
@@ -410,7 +407,7 @@ https://voila-dashboards.github.io/voici-demo/voici/tree/index.html
 # What's next
 
 - Update JupyterLite to JupyterLab 4 and Notebook 7
-- Improvements to the Emscripten Forge toolchain
+- Improvements to the Emscripten Forge toolchain and packages
 - Improvements to the Xeus Python kernel:
   - Install packages at runtime
   - Install packages from PyPI
@@ -440,3 +437,5 @@ https://voila-dashboards.github.io/voici-demo/voici/tree/index.html
 # Thanks!
 
 ![bg fit right:33%](https://raw.githubusercontent.com/jupyterlite/jupyterlite/main/docs/_static/icon.svg)
+
+Thanks to all the contributors of JupyterLite, Pyodide, Emscripten Forge, and the Jupyter Community!
