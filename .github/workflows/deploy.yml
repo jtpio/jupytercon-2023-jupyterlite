@@ -23,13 +23,13 @@ jobs:
 
       - name: Copy the presentation to the contents directory
         run: |
-          npx --yes @marp-team/marp-cli@2.5.0 index.md -o contents/index.html --html
+          npx --yes @marp-team/marp-cli@2.5.0 index.md -o notebooks/index.html --html
 
       - name: Build the JupyterLite site
         shell: bash -l {0}
         run: |
-          cp README.md content
-          jupyter lite build --contents content --output-dir dist
+          cp README.md notebooks
+          jupyter lite build --contents notebooks --output-dir dist
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
