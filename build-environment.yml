@@ -4,6 +4,7 @@ channels:
 dependencies:
   - python
   - pip
+  - node=18
   - jupyter_server
   - jupyterlite-core >=0.1.0,<0.2.0
   - pip:

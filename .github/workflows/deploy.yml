@@ -15,16 +15,15 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
 
-      - name: Setup Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: '3.10'
-
       - name: Install mamba
         uses: mamba-org/provision-with-micromamba@main
         with:
           micromamba-version: '1.4.2'
           environment-file: 'build-environment.yml'
+
+      - name: Copy the presentation to the contents directory
+        run: |
+          npx --yes @marp-team/marp-cli@2.5.0 index.md -o contents/index.html --html
 
       - name: Build the JupyterLite site
         shell: bash -l {0}
