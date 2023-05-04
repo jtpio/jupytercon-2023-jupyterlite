@@ -236,19 +236,19 @@ Embed with:
 
 ---
 
-# [numpy.org](https://numpy.org)
+# numpy.org
 
 ![center](https://user-images.githubusercontent.com/591645/162569443-40e841ad-f42d-44eb-966f-c1c810c1ab10.png)
 
 ---
 
-# [sympy.org](https://sympy.org)
+# sympy.org
 
 ![center h:500px](https://user-images.githubusercontent.com/591645/167361691-da1252e7-17f4-4bbf-8eee-ba3bfaff8c2e.png)
 
 ---
 
-# [jupyterlite-sphinx](https://jupyterlite-sphinx.readthedocs.io/en/latest/)
+# jupyterlite-sphinx
 
 ![center h:500px](https://user-images.githubusercontent.com/591645/162838828-d6407725-15d9-4640-8aa6-c8c8979a9a3f.png)
 
@@ -404,7 +404,7 @@ voici build --contents notebooks --apps lab --app retro
 
 ---
 
-# What's next
+# What's next?
 
 - Update JupyterLite to JupyterLab 4 and Notebook 7
 - Improvements to the Emscripten Forge toolchain and packages
