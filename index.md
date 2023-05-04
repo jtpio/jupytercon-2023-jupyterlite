@@ -280,7 +280,12 @@ jupyter lite build --contents notebooks
 
 ---
 
-TODO: add screencast for the contents
+<video
+  controls autoplay
+  width="100%"
+  height="600px"
+  src="https://user-images.githubusercontent.com/591645/236281330-8c1c21a3-aec2-4af4-9280-fa65fc330f24.mp4" >
+</video>
 
 ---
 
@@ -301,7 +306,12 @@ dependencies:
 
 ---
 
-TODO: add screencast
+<video
+  controls autoplay
+  width="100%"
+  height="600px"
+  src="https://user-images.githubusercontent.com/591645/236281342-fb299b8d-c9fc-4777-836a-b2e4e9d0ca46.mp4">
+</video>
 
 ---
 
@@ -323,7 +333,12 @@ dependencies:
 
 ---
 
-TODO: add screencast
+<video
+  controls autoplay
+  width="100%"
+  height="600px"
+  src="https://user-images.githubusercontent.com/591645/236281346-a942464d-4527-454e-9470-d35a2bcb96d3.mp4">
+</video>
 
 ---
 
@@ -363,7 +378,13 @@ voici build --contents notebooks --apps lab --app retro
 
 https://voila-dashboards.github.io/voici-demo/voici/tree/index.html
 
-<video height="600px" src="https://user-images.githubusercontent.com/591645/222892327-2a5b1341-640d-49c2-9e95-1f2d3ec122be.mp4" controls autoplay width="100%"></video>
+
+<video
+  controls autoplay
+  width="100%"
+  height="600px"
+  src="https://user-images.githubusercontent.com/591645/222892327-2a5b1341-640d-49c2-9e95-1f2d3ec122be.mp4">
+</video>
 
 ---
 
