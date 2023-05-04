@@ -6,6 +6,8 @@ dependencies:
   - pip
   - nodejs=18
   - jupyter_server
+  - jupyterlab-night
+  - jupyterlab-language-pack-fr-FR
   - jupyterlite-core >=0.1.0,<0.2.0
   - pip:
     - voici==0.4.4

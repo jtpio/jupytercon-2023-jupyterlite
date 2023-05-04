@@ -228,7 +228,7 @@ Embed with:
 # Or even the full JupyterLab UI
 
 <iframe
-  src="https://jupyterlite.github.io/xeus-python-demo/lab/index.html?path=demo.ipynb"
+  src="http://jtpio.github.io/jupytercon-2023-jupyterlite/lab/index.html?path=demo.ipynb"
   width="100%"
   height="100%"
 >
