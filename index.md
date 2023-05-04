@@ -415,7 +415,7 @@ voici build --contents notebooks --apps lab --app retro
 
 ---
 
-# JupyterCon 2023 talks
+# JupyterCon 2023
 
 <div class="columns">
 
@@ -439,3 +439,6 @@ voici build --contents notebooks --apps lab --app retro
 ![bg fit right:33%](https://raw.githubusercontent.com/jupyterlite/jupyterlite/main/docs/_static/icon.svg)
 
 Thanks to all the contributors of JupyterLite, Pyodide, Emscripten Forge, and the Jupyter Community!
+
+- Repository: https://github.com/jtpio/jupytercon-2023-jupyterlite
+- Live version: https://jtpio.github.io/jupytercon-2023-jupyterlite/files/index.html
