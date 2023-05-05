@@ -98,6 +98,10 @@ jupyter lite build
 
 # It generates static assets that can be served easily
 
+<div class="columns">
+<div>
+
+
 ```
 ├── api
 │   └── translations
@@ -126,6 +130,13 @@ jupyter lite build
 │   │       ├── theme-dark-extension
 │   │       │   ├── index.css
 │   │       │   └── index.js
+...
+```
+</div>
+<div>
+
+```
+...
 │   │       └── theme-light-extension
 │   │           ├── index.css
 │   │           └── index.js
@@ -151,6 +162,9 @@ jupyter lite build
 │       └── index.html
 ...
 ```
+
+</div>
+</div>
 
 ---
 
@@ -228,7 +242,7 @@ Embed with:
 # Or even the full JupyterLab UI
 
 <iframe
-  src="http://jtpio.github.io/jupytercon-2023-jupyterlite/lab/index.html?path=demo.ipynb"
+  src="https://jtpio.github.io/jupytercon-2023-jupyterlite/lab/index.html?path=demo.ipynb"
   width="100%"
   height="100%"
 >
