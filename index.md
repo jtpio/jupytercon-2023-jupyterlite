@@ -170,8 +170,7 @@ jupyter lite build
 
 # Easy to deploy
 
-- Documentation: https://jupyterlite.readthedocs.io/en/latest/deploying.html
-- Served via well-cacheable, static HTTP(S) on most static web hosts
+Served via well-cacheable, static HTTP(S) on most static web hosts
 
 <div class="columns">
 <div>
