@@ -67,6 +67,19 @@ iframe {
 
 ---
 
+# "Normal Jupyter"
+
+![center](https://user-images.githubusercontent.com/591645/228267004-e4e2e54f-1d5f-45b7-bacb-6c3a1844c479.png)
+
+---
+
+# JupyterLite
+
+![center](https://user-images.githubusercontent.com/591645/237059523-d29b94e6-7287-4608-b617-b0fe2a74877a.png)
+
+---
+
+
 # Lightweight Jupyter Frontend running in the browser
 
 ![center w:512](https://raw.githubusercontent.com/jupyterlite/jupyterlite/main/docs/_static/badge-launch.svg)
