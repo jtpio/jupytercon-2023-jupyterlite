@@ -344,6 +344,10 @@ dependencies:
   - # add more dependencies here
 ```
 
+:warning: Available packages :warning:
+- Pure Python packages (noarch) on *conda-forge*
+- Emscripten compiled packages on *emscripten-forge*
+
 ---
 
 <video
