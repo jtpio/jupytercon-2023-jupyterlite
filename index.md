@@ -447,6 +447,14 @@ voici build --contents notebooks --apps lab --app retro
 
 ---
 
+# Resources
+
+- How-To Guides: https://jupyterlite.readthedocs.io/en/latest
+- Demo repository: https://github.com/jupyterlite/xeus-python-demo
+- JupyterLite tutorial at PyConDE & PyData Berlin 2023
+
+---
+
 # Thanks!
 
 ![bg fit right:33%](https://raw.githubusercontent.com/jupyterlite/jupyterlite/main/docs/_static/icon.svg)
