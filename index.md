@@ -294,7 +294,7 @@ jupyter lite build --contents notebooks
 ---
 
 <video
-  controls autoplay
+  controls
   width="100%"
   height="600px"
   src="https://user-images.githubusercontent.com/591645/236281330-8c1c21a3-aec2-4af4-9280-fa65fc330f24.mp4" >
@@ -320,7 +320,7 @@ dependencies:
 ---
 
 <video
-  controls autoplay
+  controls
   width="100%"
   height="600px"
   src="https://user-images.githubusercontent.com/591645/236281342-fb299b8d-c9fc-4777-836a-b2e4e9d0ca46.mp4">
@@ -351,7 +351,7 @@ dependencies:
 ---
 
 <video
-  controls autoplay
+  controls
   width="100%"
   height="600px"
   src="https://user-images.githubusercontent.com/591645/236281346-a942464d-4527-454e-9470-d35a2bcb96d3.mp4">
@@ -394,7 +394,7 @@ voici build --contents notebooks --apps lab --app retro
 ---
 
 <video
-  controls autoplay
+  controls
   width="100%"
   height="600px"
   src="https://user-images.githubusercontent.com/591645/236285012-1c9afa23-8da4-45ea-9b0b-10c5cd2087f0.mp4">
