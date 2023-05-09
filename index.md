@@ -425,7 +425,7 @@ voici build --contents notebooks --apps lab --app retro
 
 # :muscle: Strengths
 
-- Easy to deploy (static files)
+- Easy to deploy and scale (static files)
 - Interactive computing in the browser accessible to more people
 - Simpler for users (no need to install Python and other packages locally)
 - Educational use cases
