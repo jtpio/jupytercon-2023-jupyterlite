@@ -213,7 +213,7 @@ Served via well-cacheable, static HTTP(S) on most static web hosts
 
 ---
 
-#  Wasm powered Jupyter running in the browser 💡
+# Wasm powered Jupyter running in the browser
 
 - https://developer.mozilla.org/en-US/docs/WebAssembly
 
@@ -221,7 +221,7 @@ Served via well-cacheable, static HTTP(S) on most static web hosts
 
 ---
 
-# Interactive Computing in the browser
+# :bulb: Interactive Computing in the browser
 
 - Python kernels:
   - Pyodide
@@ -234,7 +234,7 @@ Served via well-cacheable, static HTTP(S) on most static web hosts
 
 ---
 
-# Embed a live Python console on your website 🚀
+# :rocket: Embed a live Python console on your website
 
 ![center h:300px](https://user-images.githubusercontent.com/591645/162619390-ecab994a-3f39-4e26-af78-ca2569aee9b2.png)
 
@@ -280,7 +280,7 @@ Embed with:
 
 ---
 
-# Deploy your own on GitHub Pages :rocket:
+# :rocket: Deploy your own on GitHub Pages
 
 Quickstart: https://github.com/jupyterlite/xeus-python-demo
 
@@ -288,7 +288,7 @@ Quickstart: https://github.com/jupyterlite/xeus-python-demo
 
 ---
 
-# Adding notebooks, files and static assets
+# :notebook: Adding notebooks, files and static assets
 
 Create a `notebooks` folder and add a notebook and a CSV file:
 
@@ -315,7 +315,7 @@ jupyter lite build --contents notebooks
 
 ---
 
-# Adding extensions to the user interface
+# :jigsaw: Adding extensions to the user interface
 
 In `build-environment.yml`:
 
@@ -341,7 +341,7 @@ dependencies:
 
 ---
 
-# Adding packages to the Python runtime
+# :package: Adding packages to the Python runtime
 
 With the Xeus Python kernel, edit `environment.yml`:
 
@@ -415,7 +415,15 @@ voici build --contents notebooks --apps lab --app retro
 
 ---
 
-# Strengths
+# This repo is a JupyterLite website
+
+- Repo: https://github.com/jtpio/jupytercon-2023-jupyterlite
+- JupyterLite: https://jtpio.github.io/jupytercon-2023-jupyterlite
+- Voici: https://jtpio.github.io/jupytercon-2023-jupyterlite/voici/tree
+
+---
+
+# :muscle: Strengths
 
 - Easy to deploy (static files)
 - Interactive computing in the browser accessible to more people
@@ -425,7 +433,7 @@ voici build --contents notebooks --apps lab --app retro
 
 ---
 
-# Limitations
+# :warning: Limitations
 
 - Suited for lighter workloads
 - Not all packages are available (or ever will be)
@@ -434,18 +442,19 @@ voici build --contents notebooks --apps lab --app retro
 
 ---
 
-# What's next?
+# :crystal_ball: What's next?
 
 - Update JupyterLite to JupyterLab 4 and Notebook 7
-- Improvements to the Emscripten Forge toolchain and packages
+- Real Time Collaboration rework
+- Improvements to the Pyodide / Emscripten Forge toolchain and packages
 - Improvements to the Xeus Python kernel:
   - Install packages at runtime
   - Install packages from PyPI
-  - Lazy loading
+  - Lazy loading, optimizations
 
 ---
 
-# JupyterCon 2023
+# :orange_circle: JupyterCon 2023
 
 <div class="columns">
 
@@ -464,7 +473,7 @@ voici build --contents notebooks --apps lab --app retro
 
 ---
 
-# Resources
+# :mag: Resources
 
 - How-To Guides: https://jupyterlite.readthedocs.io/en/latest
 - Demo repository: https://github.com/jupyterlite/xeus-python-demo
@@ -472,11 +481,11 @@ voici build --contents notebooks --apps lab --app retro
 
 ---
 
-# Thanks!
+# :pray: Thanks!
 
 ![bg fit right:33%](https://raw.githubusercontent.com/jupyterlite/jupyterlite/main/docs/_static/icon.svg)
 
 Thanks to all the contributors of JupyterLite, Pyodide, Emscripten Forge, and the Jupyter Community!
 
-- Repository: https://github.com/jtpio/jupytercon-2023-jupyterlite
+- Presentation: https://github.com/jtpio/jupytercon-2023-jupyterlite
 - Live version: https://jtpio.github.io/jupytercon-2023-jupyterlite/files/index.html
